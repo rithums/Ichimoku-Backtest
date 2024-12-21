@@ -72,7 +72,7 @@ stats = backtest.run()
 
 print(stats)
 backtest.plot()
-print("YO MAMAMAM ")
+
 # Backtest setup
 
 # Function for walk-forward cross-validation
